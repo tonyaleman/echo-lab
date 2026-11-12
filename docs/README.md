@@ -3,6 +3,6 @@
 
 check out my app: https://tony.barrycumbie.com
 
-[repo: ](https://github.com/tonyaleman/echo-lab)
+[repo](https://github.com/tonyaleman/echo-lab)
 
 by [tony](https://github.com/tonyaleman)
